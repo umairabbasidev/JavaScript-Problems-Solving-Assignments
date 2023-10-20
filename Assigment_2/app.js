@@ -67,10 +67,97 @@ myVariable = myVariable + 7;
 
   // Question 5
 
-  for (let i = 1; i <= 10; i++) {
+  // for (let i = 1; i <= 10; i++) {
 
-   document.write(" 2 " + " x " + [i] + " = " + 2*[i] + "<br>") 
+  //  document.write(" 2 " + " x " + [i] + " = " + 2*[i] + "<br>") 
 
-  }
+  // }
+
+
+  // __________X________X__________Chapter 5 completed
+
+
+  // Solutions  Of Chapter 6 to 9 Questions  
+
+  // Question 1 
+
+
+  // let a = 10;
+  // document.write(`The value of number is: ${number}`)
+  
+  // a++;
+  // document.write(`The value of a++ is: ${a} <br> Now the  value of a is: ${a}`)
+
+  // document.write(`The value of a++ is: ${a} <br>`)
+  // a++;
+  // document.write(`Now the  value of a is ${a}`)
+
+
+// --a;
+// document.write(`The value of --a is :${a}<br> Now the  value of a is ${a}`)
+// --a;
+// document.write(`The value of --a is :11 <br> Now the  value of a is ${a}`)
+
+
+  // Question 2
+  
+  // let a =  2;
+  // let b = 1;
+
+  // let result = --a - --b + ++b + b--
+                // 1 - 0 + 1 + 0 = 2
+            // pre-dec - pre-dec + pre-inc + post-dec
+
+                // document.write(result) 
+
+
+
+
+   // Question 3
+   
+   // let user = prompt("Enter your name:",)
+   // alert("Greeting Mrs. " + user + " How are you!")
+
+
+   // Question 4
+
+ //   let user = +prompt("Enter your desired number of table")
+ //   if (user === 0) {
+ //    user = 5;
+ //   }
+
+ //   for(let i = 1; i<=10; i++) {
+   
+ //    document.write(user + " x " + [i] + " = " + user*[i] + "<br>")
+    
+    
+ // }
+
+
+
+    // Question 5
+
+//     let sub1 = +prompt("Enter your first subject marks")
+//     let sub2 = +prompt("Enter your second subject marks")
+//     let sub3 = +prompt("Enter your third subject marks")
+
+// let addSub = sub1 + sub2 + sub3
+
+// let totalMarks = 300;
+
+
+// let result = ( addSub /totalMarks)*100
+// alert((result.toFixed(2) + "%"))
+
+
+// __________X___________X___________Chapter 6-9 completed
+
+
+
+
+  
+
+   
+
 
 
